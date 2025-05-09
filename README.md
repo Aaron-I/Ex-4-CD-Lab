@@ -66,9 +66,8 @@ void yyerror(char *s) {
 ```
 # Output
 
-![Screenshot from 2025-04-29 13-58-56](https://github.com/user-attachments/assets/23ffbffa-b725-489d-9176-47205570456a)
+![Screenshot from 2025-05-09 15-33-27](https://github.com/user-attachments/assets/72321660-6d2e-44d2-97fb-c4f090ebf626)
 
-![Screenshot from 2025-04-29 13-59-04](https://github.com/user-attachments/assets/1fe8017a-9300-4821-8d7c-503f625cdf2e)
 
 
 # Result
